@@ -1,0 +1,5 @@
+state	kind	manifest	upstream	installed-version	command	result
+now	local	evidence/local-1.manifest	none	-	python3 check.py; output evidence/local-checks.txt	Portable TOML, contrast, image decode, reference and media checks passed; no live UI claims
+not-run	local	-	none	-	-	Rust scaffold/check/handoff unavailable: cargo command not found. Manual handoff reviewed badges, install and rollback, target/tested status, credits, media references and evidence limits.
+not-run	live	-	none	-	-	No Omarchy desktop or installed version available; Git install and live visual tests pending
+not-run	registry	-	none	-	-	Development repository supplied by user; no registry submission; validator not run; wallpaper permission pending
