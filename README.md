@@ -1,52 +1,33 @@
-# Liftoff
+<h1 align="center">Liftoff</h1>
 
-<p>
-  <a href="https://github.com/tcballard/omarchy-badges"><img alt="Built for Omarchy: Theme" height="20" src="https://raw.githubusercontent.com/tcballard/omarchy-badges/75975e5b5bf75e7ede3764bcd2950046f7abfe2c/badges/v1/omarchy-theme.svg"></a>
-  <img alt="Target: Omarchy Quattro" height="20" src="https://img.shields.io/badge/target-Omarchy_Quattro-536b4e?style=flat-square">
-  <img alt="Status: development preview" height="20" src="https://img.shields.io/badge/status-development_preview-8a6500?style=flat-square">
+<p align="center"><strong>A little rocket fire for your Omarchy desktop.</strong></p>
+
+<p align="center">
+  <a href="https://github.com/tcballard/omarchy-badges"><img src="https://raw.githubusercontent.com/tcballard/omarchy-badges/75975e5b5bf75e7ede3764bcd2950046f7abfe2c/badges/v1/omarchy-theme.svg" alt="Built for Omarchy: Theme" height="20"></a>
 </p>
 
-Status: development preview
-Intended Omarchy target: Quattro, source revision e332dc975d5f635294c497ebb54feb98dc3d89eb
-Tested installed Omarchy version: none
+Liftoff is a dark theme for Omarchy Quattro inspired by a SpaceX launch. Blue-charcoal surfaces, warm cloud-white text and exhaust-amber accents bring the photograph's colours across your desktop.
 
-The category badge is a community label, not certification. The target is not a tested-version claim.
+![Liftoff launch wallpaper](backgrounds/01-liftoff.jpeg)
 
-A dark Omarchy theme inspired by the supplied SpaceX launch photograph. Blue-charcoal surfaces, cloud-white text, exhaust-amber focus and sky-blue terminal colours.
+*The included 4K wallpaper, not a desktop screenshot.*
 
-![Palette reference — not a desktop screenshot](docs/palette.svg)
-
-## Install
-
-For local development, copy this directory to an unused
-`~/.config/omarchy/themes/liftoff` and select it from the theme menu.
-Before applying, record the current theme and background and back up any existing
-destination. Do not overwrite a modified installed copy.
-To test the development PR on your XPS:
+## Try it
 
 ```sh
-test ! -e "$HOME/.config/omarchy/themes/liftoff" && \
-  mkdir -p "$HOME/.config/omarchy/themes" && \
-  git clone --branch feat/liftoff-theme --single-branch \
-    https://github.com/tcballard/omarchy-theme-liftoff.git \
-    "$HOME/.config/omarchy/themes/liftoff"
+omarchy theme install https://github.com/tcballard/omarchy-theme-liftoff
 ```
 
-Then select Liftoff in the theme menu. This stops if the destination already exists. The repository is https://github.com/tcballard/omarchy-theme-liftoff; these instructions deliberately select the development branch until the PR is merged.
+The installer applies the theme immediately and can replace an existing installed copy. Before installing, note your current theme and wallpaper and back up any local changes to Liftoff. To switch back, select your previous theme and wallpaper through Omarchy's pickers; restore your backup if needed.
 
-## Rollback
+## From launchpad to desktop
 
-Select the previously recorded theme in the theme menu, restore its recorded
-background, and restore any backed-up destination. Remove the development copy
-only after switching away from it. These instructions still need live verification.
+Dark blue surfaces keep the interface quiet around the launch photograph. Amber highlights mark the active window and accents, while sky blue, coastal cyan and soft green carry through the terminal palette. Omarchy's templates apply the colours to supported apps.
 
-## Media and credits
+Found something hard to read or out of place? [Open an issue](https://github.com/tcballard/omarchy-theme-liftoff/issues) with a screenshot.
 
-The supplied 4096×2304 photograph is included unchanged as the wallpaper. Public redistribution permission is pending: see [credits](CREDITS.md). No real desktop screenshot is available yet. The palette contact sheet above is not a desktop screenshot.
+This is a development preview targeting Omarchy Quattro. Portable checks passed; live desktop testing and registry validation are still pending. Tested installed Omarchy version: none. The Rust helper and automated handoff were not run because Cargo was unavailable; manual handoff checks were completed. See the [design notes](DESIGN.md) and [validation record](evidence/checks.tsv).
 
-## Validation limits
+## Credits and licence
 
-See [validation evidence](evidence/checks.tsv). Portable TOML, contrast, image-decoding and file/reference checks passed. The Rust helper and automated handoff were NOT RUN because Cargo is unavailable; manual handoff checks were completed.
-No live desktop, Git-install or registry acceptance is claimed. Tested installed Omarchy version: none. See [design and live checks](DESIGN.md).
-The handoff checker checks file/evidence consistency, not whether recorded commands
-were actually executed or the theme looks correct. Review command output and prose.
+[MIT](LICENSE) © 2026 Tom Ballard, covering the theme configuration and documentation. The supplied photograph is excluded; its creator and redistribution permission still need confirming. [Artwork and attribution](CREDITS.md).
