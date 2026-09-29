@@ -1,0 +1,4 @@
+Skills: https://github.com/tcballard/build-omarchy-themes/tree/v0.2.1 at 91ff463a11828d338ccd9392f75771d4c6013666
+Inspected upstream: https://github.com/omacom/omarchy/blob/e332dc975d5f635294c497ebb54feb98dc3d89eb/themes/nord/colors.toml
+Inspected template: https://github.com/omacom/omarchy/blob/e332dc975d5f635294c497ebb54feb98dc3d89eb/default/themed/shell.toml.tpl
+Manifests generated manually as Git SHA-1 blob hashes; not by Rust helper.

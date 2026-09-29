@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340">
+<rect width="1200" height="340" fill="#10171E"/>
+<text x="32" y="56" fill="#ECE5D8" font-family="sans-serif" font-size="32">LIFTOFF</text>
+<text x="32" y="88" fill="#A2ACAE" font-family="sans-serif" font-size="16">Palette reference · not a desktop screenshot</text>
+<rect x="32" y="120" width="132" height="110" rx="8" fill="#151E26" stroke="#88979F" stroke-width="1"/>
+<text x="32" y="260" fill="#ECE5D8" font-family="sans-serif" font-size="13">background</text>
+<text x="32" y="285" fill="#A2ACAE" font-family="monospace" font-size="14">#151E26</text>
+<rect x="175" y="120" width="132" height="110" rx="8" fill="#253440" stroke="#88979F" stroke-width="1"/>
+<text x="175" y="260" fill="#ECE5D8" font-family="sans-serif" font-size="13">lighter_background</text>
+<text x="175" y="285" fill="#A2ACAE" font-family="monospace" font-size="14">#253440</text>
+<rect x="318" y="120" width="132" height="110" rx="8" fill="#ECE5D8" stroke="#88979F" stroke-width="1"/>
+<text x="318" y="260" fill="#ECE5D8" font-family="sans-serif" font-size="13">foreground</text>
+<text x="318" y="285" fill="#A2ACAE" font-family="monospace" font-size="14">#ECE5D8</text>
+<rect x="461" y="120" width="132" height="110" rx="8" fill="#F3B77B" stroke="#88979F" stroke-width="1"/>
+<text x="461" y="260" fill="#ECE5D8" font-family="sans-serif" font-size="13">accent</text>
+<text x="461" y="285" fill="#A2ACAE" font-family="monospace" font-size="14">#F3B77B</text>
+<rect x="604" y="120" width="132" height="110" rx="8" fill="#7BBCE0" stroke="#88979F" stroke-width="1"/>
+<text x="604" y="260" fill="#ECE5D8" font-family="sans-serif" font-size="13">blue</text>
+<text x="604" y="285" fill="#A2ACAE" font-family="monospace" font-size="14">#7BBCE0</text>
+<rect x="747" y="120" width="132" height="110" rx="8" fill="#8BC8D0" stroke="#88979F" stroke-width="1"/>
+<text x="747" y="260" fill="#ECE5D8" font-family="sans-serif" font-size="13">cyan</text>
+<text x="747" y="285" fill="#A2ACAE" font-family="monospace" font-size="14">#8BC8D0</text>
+<rect x="890" y="120" width="132" height="110" rx="8" fill="#A9C59A" stroke="#88979F" stroke-width="1"/>
+<text x="890" y="260" fill="#ECE5D8" font-family="sans-serif" font-size="13">green</text>
+<text x="890" y="285" fill="#A2ACAE" font-family="monospace" font-size="14">#A9C59A</text>
+<rect x="1033" y="120" width="132" height="110" rx="8" fill="#EF8D80" stroke="#88979F" stroke-width="1"/>
+<text x="1033" y="260" fill="#ECE5D8" font-family="sans-serif" font-size="13">red</text>
+<text x="1033" y="285" fill="#A2ACAE" font-family="monospace" font-size="14">#EF8D80</text>
+</svg>
