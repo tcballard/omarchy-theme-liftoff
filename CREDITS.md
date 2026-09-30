@@ -2,9 +2,12 @@
 
 ## backgrounds/01-liftoff.jpeg
 
-Source: the photograph supplied by Tom Ballard in this conversation on 29 September 2026, named 98F7EBDD-F46F-4657-9A31-F1D2CBF70505.jpeg.
-Creator: not established. Subject: a SpaceX launch, as described by the user. Exact mission and capture date are not asserted.
-Licence: unknown; public redistribution permission pending. Included unchanged as the user-supplied reference for this development theme; no licence grant is asserted. Confirm the photographer, original source URL and applicable permission before public distribution or registry submission. The configuration licence does not cover this photograph.
+Image credit: SpaceX.
+Source supplied by Tom Ballard: https://x.com/SpaceX/status/2104654998034690329
+
+The wallpaper was supplied by Tom Ballard on 29 September 2026 and is included unchanged. On 30 September 2026, Tom confirmed that the image was published by SpaceX and released into the public domain. This rights statement is based on the repository author's confirmation; an independent image-specific licence verification was not available from the linked X post. No specific Creative Commons licence is asserted.
+
+The theme's MIT licence covers configuration and documentation, not a new licence grant over SpaceX imagery. Liftoff is an unofficial community theme and is not affiliated with or endorsed by SpaceX.
 
 ## Theme configuration
 
@@ -13,3 +16,7 @@ Original Liftoff palette authored for Tom Ballard. MIT licence applies to the co
 ## docs/palette.svg
 
 Original vector palette reference generated from this theme's colour values. MIT. A contact sheet, not a desktop screenshot.
+
+## Desktop screenshots
+
+Screenshots supplied by Tom Ballard on 30 September 2026. The root preview shows the desktop; docs/theme-picker.png shows the theme picker. The wallpaper attribution above also applies to the image visible within them.

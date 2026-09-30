@@ -24,7 +24,7 @@ Dark blue surfaces keep the interface quiet around the launch photograph. Amber 
 
 Found something hard to read or out of place? [Open an issue](https://github.com/tcballard/omarchy-theme-liftoff/issues) with a screenshot.
 
-This is a development preview targeting Omarchy Quattro. Portable checks passed. The screenshots above show Liftoff on Tom’s desktop and in the theme picker; the installed Omarchy version was not recorded. Full live checks and registry validation are still pending. The Rust helper and automated handoff were not run because Cargo was unavailable; manual handoff checks were completed. See the [design notes](DESIGN.md) and [validation record](evidence/checks.tsv).
+This is a development preview targeting Omarchy Quattro. Portable checks passed. The screenshots above show Liftoff on Tom’s desktop and in the theme picker; the installed Omarchy version was not recorded. The upstream registry validator passed on 30 September 2026 with no errors; full live checks and marketplace approval remain pending. The Rust helper and automated handoff were not run because Cargo was unavailable; manual handoff checks were completed. See the [design notes](DESIGN.md) and [validation record](evidence/checks.tsv).
 
 ## Theme picker
 
@@ -32,4 +32,4 @@ This is a development preview targeting Omarchy Quattro. Portable checks passed.
 
 ## Credits and licence
 
-[MIT](LICENSE) © 2026 Tom Ballard, covering the theme configuration and documentation. The supplied photograph is excluded; its creator and redistribution permission still need confirming. [Artwork and attribution](CREDITS.md).
+[MIT](LICENSE) © 2026 Tom Ballard, covering the theme configuration and documentation. Launch photograph: SpaceX; public-domain status confirmed by the repository author. Unofficial community theme, not endorsed by SpaceX. [Artwork and attribution](CREDITS.md).
