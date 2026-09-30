@@ -8,9 +8,7 @@
 
 Liftoff is a dark theme for Omarchy Quattro inspired by a SpaceX launch. Blue-charcoal surfaces, warm cloud-white text and exhaust-amber accents bring the photograph's colours across your desktop.
 
-![Liftoff launch wallpaper](backgrounds/01-liftoff.jpeg)
-
-*The included 4K wallpaper, not a desktop screenshot.*
+![Liftoff on an Omarchy desktop](preview.png)
 
 ## Try it
 
@@ -26,7 +24,11 @@ Dark blue surfaces keep the interface quiet around the launch photograph. Amber 
 
 Found something hard to read or out of place? [Open an issue](https://github.com/tcballard/omarchy-theme-liftoff/issues) with a screenshot.
 
-This is a development preview targeting Omarchy Quattro. Portable checks passed; live desktop testing and registry validation are still pending. Tested installed Omarchy version: none. The Rust helper and automated handoff were not run because Cargo was unavailable; manual handoff checks were completed. See the [design notes](DESIGN.md) and [validation record](evidence/checks.tsv).
+This is a development preview targeting Omarchy Quattro. Portable checks passed. The screenshots above show Liftoff on Tom’s desktop and in the theme picker; the installed Omarchy version was not recorded. Full live checks and registry validation are still pending. The Rust helper and automated handoff were not run because Cargo was unavailable; manual handoff checks were completed. See the [design notes](DESIGN.md) and [validation record](evidence/checks.tsv).
+
+## Theme picker
+
+![Liftoff in the Omarchy theme picker](docs/theme-picker.png)
 
 ## Credits and licence
 
