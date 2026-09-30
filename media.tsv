@@ -1,3 +1,5 @@
 path	kind	caption
 backgrounds/01-liftoff.jpeg	wallpaper	User-supplied launch photograph; redistribution permission pending
 docs/palette.svg	contact-sheet	Liftoff palette reference, not a desktop screenshot
+preview.png	screenshot	User-supplied Liftoff desktop screenshot; main README preview
+docs/theme-picker.png	screenshot	User-supplied Omarchy theme picker showing Liftoff
