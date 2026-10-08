@@ -1,4 +1,5 @@
 state	kind	manifest	upstream	installed-version	command	result
+2026-10-08	local	-	none	-	python check.py; git diff --check; SHA-256 comparison	8K PNG decoded at 8192 × 4608; palette, references and media inventory passed; exact enhanced-image match; see evidence/8k-wallpaper-checks.txt; no live desktop test
 now	local	evidence/local-1.manifest	none	-	python3 check.py; output evidence/local-checks.txt	Portable TOML, contrast, image decode, reference and media checks passed; no live UI claims
 not-run	local	-	none	-	-	Rust scaffold/check/handoff unavailable: cargo command not found. Manual handoff reviewed badges, install and rollback, target/tested status, credits, media references and evidence limits.
 not-run	live	-	none	-	-	No Omarchy desktop or installed version available; Git install and live visual tests pending
