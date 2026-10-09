@@ -11,6 +11,12 @@ On 8 October 2026, the wallpaper was replaced with Tom's approved two-pass conte
 
 The theme's MIT licence covers configuration and documentation, not a new licence grant over SpaceX imagery. Liftoff is an unofficial community theme and is not affiliated with or endorsed by SpaceX.
 
+## backgrounds/02-engine-cluster.png
+
+Engine-cluster launch photograph supplied by Tom Ballard on 9 October 2026. The original photographer, source URL and image-specific licence were not supplied; no public-domain or Creative Commons status is asserted for this photograph. The theme’s MIT licence does not grant rights over it.
+
+Added at Tom’s request as an additional wallpaper, using the approved two-pass contextual AI enhancement. The lossless PNG is 8192 × 5461, preserving the original 3:2 framing to the nearest pixel. Fine detail is reconstructed from approximately 1.6-megapixel native AI crop edits. Nine overlapping grid edits and six focal edits were registered and blended against the original photograph; uncertain areas retain prior content. The 8K dimensions describe the assembled export resolution.
+
 ## Theme configuration
 
 Original Liftoff palette authored for Tom Ballard. MIT licence applies to the configuration and documentation only. Scaffold documentation adapted from Build Omarchy Themes v0.2.1 (MIT), commit 91ff463a11828d338ccd9392f75771d4c6013666.

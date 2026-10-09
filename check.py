@@ -22,12 +22,13 @@ for a, b, minimum in [('foreground', 'background', 4.5), ('foreground', 'selecti
     ratio = (high + .05) / (low + .05)
     print(f'{a}/{b}: {ratio:.2f}:1')
     assert ratio >= minimum
-im = Image.open(root / 'backgrounds/01-liftoff.png')
-im.load()
-assert im.format == 'PNG'
-assert im.size == (8192, 4608)
-assert not im.getexif(), 'Review EXIF before delivery'
-print(f'8K PNG fully decoded: {im.size}; no EXIF metadata')
+for name, expected_size in [('01-liftoff.png', (8192, 4608)), ('02-engine-cluster.png', (8192, 5461))]:
+    with Image.open(root / 'backgrounds' / name) as im:
+        im.load()
+        assert im.format == 'PNG'
+        assert im.size == expected_size
+        assert not im.getexif(), 'Review EXIF before delivery'
+        print(f'{name}: 8K PNG fully decoded: {im.size}; no EXIF metadata')
 for p in root.rglob('*'):
     assert not p.is_symlink()
 for md in root.glob('*.md'):

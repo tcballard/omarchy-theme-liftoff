@@ -1,0 +1,18 @@
+9 October 2026 — additional 8K engine-cluster wallpaper
+
+foreground/background: 13.46:1
+foreground/selection: 7.10:1
+accent/background: 9.53:1
+muted/background: 5.60:1
+dark_foreground/background: 7.26:1
+01-liftoff.png: 8K PNG fully decoded: (8192, 4608); no EXIF metadata
+02-engine-cluster.png: 8K PNG fully decoded: (8192, 5461); no EXIF metadata
+PASS: flat TOML, required colours, contrast targets, media inventory, local links and no symlinks
+NOT RUN: live desktop, Git-installed path, Rust helper/handoff, upstream registry validator
+
+git diff --check: passed
+
+The additional wallpaper is byte-identical to the approved export.
+SHA-256: c5516d10dd94fade6b706f0be9e798870945473b7722626d41513fea10480e64
+
+Existing launchpad wallpaper retained. No live desktop checks or new screenshots performed.
