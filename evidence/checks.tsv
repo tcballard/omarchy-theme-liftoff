@@ -5,3 +5,4 @@ not-run	local	-	none	-	-	Rust scaffold/check/handoff unavailable: cargo command 
 not-run	live	-	none	-	-	No Omarchy desktop or installed version available; Git install and live visual tests pending
 not-run	registry	-	none	-	-	Development repository supplied by user; no registry submission; validator not run; wallpaper permission pending
 2026-10-09	local	-	none	-	python check.py; git diff --check; SHA-256 comparison	Both 8K PNGs fully decoded; palette, references and media inventory passed; exact engine-cluster export match; see evidence/engine-cluster-wallpaper-checks.txt; no live desktop test
+2026-10-09	local	-	none	-	python check.py; git diff --check; SHA-256 comparison	All three 8K PNGs fully decoded; palette, references and media inventory passed; exact sunset export match; see evidence/sunset-wallpaper-checks.txt; no live desktop test

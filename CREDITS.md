@@ -17,6 +17,12 @@ Engine-cluster launch photograph supplied by Tom Ballard on 9 October 2026. The 
 
 Added at Tom’s request as an additional wallpaper, using the approved two-pass contextual AI enhancement. The lossless PNG is 8192 × 5461, preserving the original 3:2 framing to the nearest pixel. Fine detail is reconstructed from approximately 1.6-megapixel native AI crop edits. Nine overlapping grid edits and six focal edits were registered and blended against the original photograph; uncertain areas retain prior content. The 8K dimensions describe the assembled export resolution.
 
+## backgrounds/03-liftoff-sunset.png
+
+Added at Tom Ballard’s request on 9 October 2026. A painterly AI reinterpretation of `backgrounds/01-liftoff.png`, using a sunset landscape supplied by Tom as a style reference for violet shadows, magenta highlights and orange light. The launchpad photograph’s source and rights statement above also apply to the source of this variant. The style-reference image is not included in this repository.
+
+The native AI edit is 1672 × 941 pixels, resampled with Lanczos to an 8192 × 4608 lossless RGB PNG in the original 16:9 proportions. These dimensions describe the export, not native AI generation. This version is an illustration; its detail is reinterpreted rather than recovered from the photograph.
+
 ## Theme configuration
 
 Original Liftoff palette authored for Tom Ballard. MIT licence applies to the configuration and documentation only. Scaffold documentation adapted from Build Omarchy Themes v0.2.1 (MIT), commit 91ff463a11828d338ccd9392f75771d4c6013666.
