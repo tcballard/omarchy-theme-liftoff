@@ -22,7 +22,7 @@ for a, b, minimum in [('foreground', 'background', 4.5), ('foreground', 'selecti
     ratio = (high + .05) / (low + .05)
     print(f'{a}/{b}: {ratio:.2f}:1')
     assert ratio >= minimum
-for name, expected_size in [('01-liftoff.png', (8192, 4608)), ('02-engine-cluster.png', (8192, 5461))]:
+for name, expected_size in [('01-liftoff.png', (8192, 4608)), ('02-engine-cluster.png', (8192, 5461)), ('03-liftoff-sunset.png', (8192, 4608))]:
     with Image.open(root / 'backgrounds' / name) as im:
         im.load()
         assert im.format == 'PNG'
