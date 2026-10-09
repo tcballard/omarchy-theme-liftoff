@@ -14,7 +14,7 @@ Liftoff includes three lossless 8K wallpapers:
 - Engine-cluster view: **8192 × 5461** (`backgrounds/02-engine-cluster.png`).
 - Sunset illustration: **8192 × 4608** (`backgrounds/03-liftoff-sunset.png`), with purple shadows, vivid pinks and glowing orange light.
 
-The two photographic wallpapers were enhanced in two passes; fine detail is AI-reconstructed. The sunset version is a painterly AI reinterpretation of the launchpad image, resized to 8K. See [artwork and attribution](CREDITS.md). Choose a wallpaper through Omarchy’s wallpaper picker. The desktop screenshots below show the earlier launchpad wallpaper.
+All three wallpapers were enhanced in two passes; fine detail is AI-reconstructed. The sunset version preserves its painted finish. See [artwork and attribution](CREDITS.md). Choose a wallpaper through Omarchy’s wallpaper picker. The desktop screenshots below show the earlier launchpad wallpaper.
 
 ![Liftoff on an Omarchy desktop](preview.png)
 

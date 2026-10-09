@@ -21,7 +21,9 @@ Added at Tom’s request as an additional wallpaper, using the approved two-pass
 
 Added at Tom Ballard’s request on 9 October 2026. A painterly AI reinterpretation of `backgrounds/01-liftoff.png`, using a sunset landscape supplied by Tom as a style reference for violet shadows, magenta highlights and orange light. The launchpad photograph’s source and rights statement above also apply to the source of this variant. The style-reference image is not included in this repository.
 
-The native AI edit is 1672 × 941 pixels, resampled with Lanczos to an 8192 × 4608 lossless RGB PNG in the original 16:9 proportions. These dimensions describe the export, not native AI generation. This version is an illustration; its detail is reinterpreted rather than recovered from the photograph.
+The initial style edit was 1672 × 941 pixels. Its earlier resized export was replaced on 9 October 2026 with a two-pass contextual AI crop enhancement: nine overlapping grid targets, followed by seven salient focal targets. Every edit received the original complete sunset illustration as context. Native crop edits are registered and blended, retaining prior content where correspondence is unreliable. One central first-pass edit was rejected after a targeted retry because it shifted the rocket and horizon. The second-pass body edit was also rejected after a targeted retry because its painted coating remained too regular; prior content and reliable overlaps were retained. A small unsupported joint line in the nose edit uses a local prior-pixel fallback.
+
+The result is an 8192 × 4608 lossless RGB PNG in the original wallpaper’s 16:9 proportions. These dimensions describe the assembled export, not a single native AI generation. This version is an illustration; its painted detail is reconstructed rather than recovered from the photograph. [Enhancement prompts and settings](docs/sunset-enhancement.md).
 
 ## Theme configuration
 
