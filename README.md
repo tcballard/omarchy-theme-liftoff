@@ -8,13 +8,14 @@
 
 Liftoff is a dark theme for Omarchy Quattro inspired by a SpaceX launch. Blue-charcoal surfaces, warm cloud-white text and exhaust-amber accents bring the photograph's colours across your desktop.
 
-Liftoff includes three lossless 8K wallpapers:
+Liftoff includes four lossless 8K wallpapers:
 
 - Launchpad view: **8192 × 4608** (`backgrounds/01-liftoff.png`).
 - Engine-cluster view: **8192 × 5461** (`backgrounds/02-engine-cluster.png`).
 - Sunset illustration: **8192 × 4608** (`backgrounds/03-liftoff-sunset.png`), with purple shadows, vivid pinks and glowing orange light.
+- Starship ascent: **8192 × 4667** (`backgrounds/04-starship-ascent.png`), preserving the photograph's original daytime colours.
 
-All three wallpapers were enhanced in two passes; fine detail is AI-reconstructed. The sunset version preserves its painted finish. See [artwork and attribution](CREDITS.md). Choose a wallpaper through Omarchy’s wallpaper picker. The desktop screenshots below show the earlier launchpad wallpaper.
+All four wallpapers were enhanced in two passes; fine detail is AI-reconstructed. The sunset version preserves its painted finish. See [artwork and attribution](CREDITS.md). Choose a wallpaper through Omarchy’s wallpaper picker. The desktop screenshots below show the earlier launchpad wallpaper.
 
 ![Liftoff on an Omarchy desktop](preview.png)
 
@@ -40,4 +41,4 @@ This is a development preview targeting Omarchy Quattro. Portable checks passed.
 
 ## Credits and licence
 
-[MIT](LICENSE) © 2026 Tom Ballard, covering the theme configuration and documentation. Launchpad photograph: SpaceX; public-domain status confirmed by the repository author. Engine-cluster photograph supplied by Tom Ballard; its image-specific licence has not been independently verified. Unofficial community theme, not endorsed by SpaceX. [Artwork and attribution](CREDITS.md).
+[MIT](LICENSE) © 2026 Tom Ballard, covering the theme configuration and documentation. Launchpad photograph: SpaceX; public-domain status confirmed by the repository author. Engine-cluster and Starship ascent photographs supplied by Tom Ballard; their image-specific licences have not been independently verified. Unofficial community theme, not endorsed by SpaceX. [Artwork and attribution](CREDITS.md).

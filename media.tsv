@@ -2,6 +2,7 @@ path	kind	caption
 backgrounds/01-liftoff.png	wallpaper	8192 × 4608 lossless PNG; two-pass AI enhancement of the SpaceX launch photograph; detail is reconstructed; see CREDITS.md
 backgrounds/02-engine-cluster.png	wallpaper	8192 × 5461 lossless PNG; two-pass AI enhancement of the user-supplied engine-cluster photograph; detail is reconstructed; see CREDITS.md
 backgrounds/03-liftoff-sunset.png	wallpaper	8192 × 4608 lossless PNG; two-pass contextual AI enhancement of the painterly sunset illustration; painted detail is reconstructed; see CREDITS.md
+backgrounds/04-starship-ascent.png	wallpaper	8192 × 4667 lossless PNG; original-colour two-pass contextual AI enhancement of the user-supplied Starship ascent photograph; detail is reconstructed; see CREDITS.md
 docs/palette.svg	contact-sheet	Liftoff palette reference, not a desktop screenshot
 preview.png	screenshot	User-supplied Liftoff desktop screenshot; main README preview
 docs/theme-picker.png	screenshot	User-supplied Omarchy theme picker showing Liftoff
