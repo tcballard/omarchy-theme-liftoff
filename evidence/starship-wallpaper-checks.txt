@@ -1,0 +1,32 @@
+10 October 2026 — additional original-colour 8K Starship ascent wallpaper
+
+python3 check.py: passed
+
+foreground/background: 13.46:1
+foreground/selection: 7.10:1
+accent/background: 9.53:1
+muted/background: 5.60:1
+dark_foreground/background: 7.26:1
+01-liftoff.png: 8K PNG fully decoded: (8192, 4608); no EXIF metadata
+02-engine-cluster.png: 8K PNG fully decoded: (8192, 5461); no EXIF metadata
+03-liftoff-sunset.png: 8K PNG fully decoded: (8192, 4608); no EXIF metadata
+04-starship-ascent.png: 8K PNG fully decoded: (8192, 4667); no EXIF metadata
+PASS: flat TOML, required colours, contrast targets, media inventory, local links and no symlinks
+
+git diff --check: passed
+
+The additional wallpaper has identical decoded RGB pixels to the approved
+starship-original-8k.png export. PNG encoding was losslessly optimised with
+adaptive scanline filtering and compression level 9.
+Original size: 47,162,495 bytes
+Repository size: 21,682,266 bytes
+Approved export SHA-256: f967d5ccdb03f18b345521c6ab981c5c0162062cbccb37f20be860604aac704f
+Repository PNG SHA-256: a764bfa96479b950499a2536087e8b70ba3326a7c6b10123767841461aa9459f
+Decoded RGB SHA-256 (both): df95fd3802d1fae34f9cfbe5b725574f1a7c9d30ae386913bd89673379365d4c
+Lossless opaque 8-bit RGB PNG; embedded sRGB ICC; no EXIF, XMP or IPTC metadata.
+Both export and repository PNG verification passed PNG signature, every chunk
+CRC and complete decode checks. Dimensions and the unchanged source hash were
+also verified; decoded RGB pixels and sRGB ICC profiles match exactly.
+
+NOT RUN: live desktop, portrait/ultrawide crops, lock controls,
+Git-installed path, Rust helper/handoff, upstream registry validator.

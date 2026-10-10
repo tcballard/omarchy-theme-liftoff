@@ -25,6 +25,14 @@ The initial style edit was 1672 × 941 pixels. Its earlier resized export was re
 
 The result is an 8192 × 4608 lossless RGB PNG in the original wallpaper’s 16:9 proportions. These dimensions describe the assembled export, not a single native AI generation. This version is an illustration; its painted detail is reconstructed rather than recovered from the photograph. [Enhancement prompts and settings](docs/sunset-enhancement.md).
 
+## backgrounds/04-starship-ascent.png
+
+Starship ascent photograph supplied by Tom Ballard on 10 October 2026. The original photographer, source URL and image-specific licence were not supplied; no public-domain or Creative Commons status is asserted for this photograph. The theme's MIT licence does not grant rights over it.
+
+Added at Tom's request as an additional wallpaper, using the approved original-colour two-pass contextual AI enhancement. The lossless, opaque RGB PNG is **8192 × 4667**, preserving the original 4044 × 2304 photograph's proportions to the nearest pixel, with an embedded sRGB profile. Its PNG encoding was losslessly optimised for distribution; its decoded pixels are identical to the approved `starship-original-8k.png` export.
+
+Nine padded grid edits were registered and blended in pass 1. Pass 2 generated four focal edits covering the ship, booster, plume and coastline; three were accepted. The booster edit was rejected because its native aspect ratio did not match the requested crop, so that region retains pass 1 pixels. Uncertain correspondences also retain prior content through local confidence masks. Fine detail is AI-reconstructed; 8K describes the assembled export rather than a native generation or recovery of hidden photographic information. The original daytime colours are retained. [Enhancement prompts and settings](docs/starship-enhancement.md).
+
 ## Theme configuration
 
 Original Liftoff palette authored for Tom Ballard. MIT licence applies to the configuration and documentation only. Scaffold documentation adapted from Build Omarchy Themes v0.2.1 (MIT), commit 91ff463a11828d338ccd9392f75771d4c6013666.
